@@ -1,5 +1,5 @@
 {
-    "name": "magento-seis10/language_es_mx",
+    "name": "seis10/language_es_mx",
     "description": "Spanish (Mexico) language for Magento2",
     "license": [
         "OSL-3.0",
@@ -16,7 +16,7 @@
         ]
     },
     "repositories": {
-        "magento-seis10-language_es_mx": {
+        "magento-seis10/language_es_mx": {
             "type": "git",
             "url": "git@github.com:magento-seis10/language_es_mx.git"
         }
