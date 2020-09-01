@@ -4,14 +4,10 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "description": "Spanish (Mexico) language for Magento2",
-    "version": "2.3.0",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
     ],
-    "require": {
-        "magento/framework": "*"
-    },
     "autoload": {
         "files": [
             "registration.php"
