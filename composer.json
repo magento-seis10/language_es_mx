@@ -1,6 +1,8 @@
 {
     "name": "magento-seis10/language_es_mx",
     "type": "magento2-language",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "description": "Spanish (Mexico) language for Magento2",
     "version": "2.3.0",
     "license": [
