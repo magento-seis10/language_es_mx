@@ -10,6 +10,6 @@
 -->
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
     <code>es_MX</code>
-    <vendor>seis10</vendor>
+    <vendor>seisdiez</vendor>
     <package>es_MX</package>
 </language>
