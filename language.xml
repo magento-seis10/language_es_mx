@@ -12,5 +12,4 @@
     <code>es_MX</code>
     <vendor>seisdiez</vendor>
     <package>es_MX</package>
-    <use vendor="fasaro/magento2-es_mx-language-pack" package="es_MX"/>
 </language>
