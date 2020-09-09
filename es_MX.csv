@@ -842,7 +842,7 @@ Something went wrong while saving the group.,Algo salió mal al salvar al grupo.
 Sort Option,Opción de clasificación,module,Amasty_Conf 
 Specify child product SKU,Especificar producto SKU,module,Amasty_Conf 
 Status,Estado,module,Amasty_Conf 
-Subtotal,Total parcial,module,Amasty_Conf 
+Subtotal,Subtotal,module,Amasty_Conf 
 Swatch,Muestra de tela,module,Amasty_Conf 
 The Cheapest Product,El producto mas barato,module,Amasty_Conf 
 The First Options,Las primeras opciones,module,Amasty_Conf 
@@ -16943,9 +16943,9 @@ My Product Reviews,Reseñas de mi artículo,module,Magento_Review
 My Recent Reviews,Mis reseñas recientes,module,Magento_Review
 Name,Nombre,module,Magento_Review
 New Rating,Nueva puntuación,module,Magento_Review
-New Review,Nueva revisión,module,Magento_Review
+New Review,Nueva reseña,module,Magento_Review
 Next,Siguiente,module,Magento_Review
-Nickname,Apodo,module,Magento_Review
+Nickname,Nombre de Usuario,module,Magento_Review
 Not Approved,No aprobado,module,Magento_Review
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Solo usuarios registrados pueden escribir comentarios. Por favor, <a href=""%1""> iniciar sesión</a> o <a href=""%2""> crear una cuenta</a>",module,Magento_Review
 "Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Solo usuarios registrados pueden escribir calificaciones. Por favor, <a href=""%1""> inicie sesión</a> o <a href=""%2""> registrese </a>",module,Magento_Review
@@ -16959,7 +16959,7 @@ Please enter a nickname.,Introduce un apodo.,module,Magento_Review
 Please enter a review summary.,Escriba un resumen del informe.,module,Magento_Review
 Please enter a review.,"Por favor, introduce una opinión.",module,Magento_Review
 Please select one of each of the ratings above.,Seleccione una de cada una de las calificaciones anteriores.,module,Magento_Review
-Please select review(s).,"Por favor, seleccione revisión(es).",module,Magento_Review
+Please select review(s).,"Por favor, seleccione reseña(s).",module,Magento_Review
 "Please specify a rating title for a store, or we'll just use the default value.","Por favor especifique un título de grado para una tienda, o solo vamos a utilizar el valor predeterminado.",module,Magento_Review
 "Please specify a rating title for a store, or we\'ll just use the default value.","Especifique un título de calificación para una tienda, o simplemente usaremos el valor predeterminado.",module,Magento_Review
 Posted on,Publicado en,module,Magento_Review
@@ -16969,7 +16969,7 @@ Product,Producto,module,Magento_Review
 Product Name,Nombre del Producto,module,Magento_Review
 Product Rating,Valoración de artículo,module,Magento_Review
 Product Rating:,Valoración de artículo:,module,Magento_Review
-Product Review (submitted on %1):,Revisión de artículo (enviada en %s):,module,Magento_Review
+Product Review (submitted on %1):,Reseña de artículo (enviada en %s):,module,Magento_Review
 Product Reviews,Reseñas de artículo,module,Magento_Review
 Product Store Name,Nombre de la tienda,module,Magento_Review
 "Product: ""%1"" reviewed by: %2","Producto: ""%1"" revisado por: %2",module,Magento_Review
@@ -16994,7 +16994,7 @@ Save Rating,Guardar puntuación,module,Magento_Review
 Save Review,Guardar reseña,module,Magento_Review
 See Details,Ver información,module,Magento_Review
 SKU,SKU,module,Magento_Review
-Something went wrong  deleting this review.,Algo salió mal en borrar esta revisión.,module,Magento_Review
+Something went wrong  deleting this review.,Algo salió mal en borrar esta reseña.,module,Magento_Review
 Something went wrong while deleting these records.,Algo salió mal al eliminar estos registros.,module,Magento_Review
 Something went wrong while saving this review.,Algo salió mal al guardar este evento.,module,Magento_Review
 Something went wrong while updating these review(s).,Algo salió mal al actualizar estos exámenes.,module,Magento_Review
@@ -17005,7 +17005,7 @@ Store: %1 <br/>,Tienda: %1 <br/>,module,Magento_Review
 Submit Review,Transmitir reseña del cliente,module,Magento_Review
 Submitted on %1,Enviado el %1,module,Magento_Review
 Summary,Resumen,module,Magento_Review
-Summary of Review,Resumen de revisión,module,Magento_Review
+Summary of Review,Resumen de reseñas,module,Magento_Review
 Summary of review: %1 <br/>,Resumen del reseña: %1 <br/>,module,Magento_Review
 Summary Rating,Resumen de valoración,module,Magento_Review
 The review has been deleted.,Se eliminó la reseña.,module,Magento_Review
@@ -17025,7 +17025,7 @@ Write Your Own Review,Escribir Su propia reseña,module,Magento_Review
 You deleted the rating.,Borró la calificación.,module,Magento_Review
 You have submitted no reviews.,No has enviado ninguna reseña.,module,Magento_Review
 You saved the rating.,Guardaste la calificación.,module,Magento_Review
-You saved the review.,Guardaste la revisión.,module,Magento_Review
+You saved the review.,Guardaste la reseña.,module,Magento_Review
 You submitted your review for moderation.,Usted presentó su informe a la moderación.,module,Magento_Review
 You're reviewing:,Estás revisando:,module,Magento_Review
 Your Rating,Su valoración,module,Magento_Review
@@ -17107,7 +17107,7 @@ Expires,Vencimiento,module,Magento_Reward
 Expires on %1,Vence el %1,module,Magento_Reward
 Expiry Warning Before (days),Advertencia de la caducidad antes (días),module,Magento_Reward
 First,Primero,module,Magento_Reward
-For submitting a product review,Para la presentación de una revisión de producto,module,Magento_Reward
+For submitting a product review,Para la presentación de una reseña de producto,module,Magento_Reward
 ID,ID,module,Magento_Reward
 Invitation Conversion to Order Reward,Conversión de la invitación a la orden recompensa,module,Magento_Reward
 Invitation to Customer Conversions Quantity Limit,Invitación al cliente conversiones cantidad límite,module,Magento_Reward
@@ -17173,7 +17173,7 @@ Signed up for newsletter with email %1,Se inscribió al boletín con el correo e
 "Sorry, but a rate for the same website, customer group and direction or covering rate already exists.","Lo sentimos, pero un tipo con el mismo sitio web, tarifa de grupo y dirección o con cliente ya existe.",module,Magento_Reward
 Static,Estática,module,Magento_Reward
 Store,Tienda,module,Magento_Reward
-Submit a review now and earn %1 after the review is approved.,Presentar un examen ahora y gane %1 después de la revisión es aprobada.,module,Magento_Reward
+Submit a review now and earn %1 after the review is approved.,Presenté una reseña y gane %1 después de que la reseña sea aprobada.,module,Magento_Reward
 Subscribe Customers by Default,Suscribirse a los clientes por defecto,module,Magento_Reward
 Subscribe for Balance Updates,Suscribirse para recibir actualizaciones del saldo,module,Magento_Reward
 Subscribe for Points Expiration Notifications,Subscríbete a puntos notificaciones de vencimiento,module,Magento_Reward
@@ -19721,8 +19721,6 @@ We were unable to perform the search because of a search engine misconfiguration
 Without starting and trailing slashes.,Sin barras diagonales al inicio o al final.,module,Magento_Solr
 %1 is required parameter.,%1 es parámetro necesario.,module,Magento_Staging
 Action,Acción,module,Magento_Staging
-Action class must implement ActionDataProviderInterface,La clase de acción debe implementar ActionDataProviderInterface,module,Magento_Staging
-Action class needs to implement ActionDataProviderInterface. Verify action class and try again.,La clase de acción necesita implementar ActionDataProviderInterface. Verifique la clase de acción e intente nuevamente.,module,Magento_Staging
 Active,Activo,module,Magento_Staging
 Active update can not be deleted,No se puede eliminar la actualización activa,module,Magento_Staging
 Assign to Another Campaign,Asignar a otra campaña,module,Magento_Staging
@@ -25322,7 +25320,7 @@ Clear All,Limpiar todo,module,frontend/Mgs/claue
 Have no posts.,No tienen mensajes.,module,frontend/Mgs/claue
 By ,Por,module,frontend/Mgs/claue
 Tag ,Etiqueta,module,frontend/Mgs/claue
-%1 comment(s),% 1 comentario (s),module,frontend/Mgs/claue
+%1 comment(s), %1 comentario (s),module,frontend/Mgs/claue
 Continue Reading,Sigue leyendo,module,frontend/Mgs/claue
 Previous,Anterior,module,frontend/Mgs/claue
 Next,próximo,module,frontend/Mgs/claue
@@ -25348,9 +25346,9 @@ Tags,Etiquetas,module,frontend/Mgs/claue
 By,Por,module,frontend/Mgs/claue
 on,en,module,frontend/Mgs/claue
 There are no posts matching the selection.,No hay mensajes que concuerden con la selección.,module,frontend/Mgs/claue
-%1 Comment(s),% 1 Comentario (s),module,frontend/Mgs/claue
+%1 Comment(s), %1 Comentario (s),module,frontend/Mgs/claue
 Featured Brands,Marcas destacadas,module,frontend/Mgs/claue
-%1 ,% 1,module,frontend/Mgs/claue
+%1 , %1,module,frontend/Mgs/claue
 Product,Producto,module,frontend/Mgs/claue
 Products,productos,module,frontend/Mgs/claue
 Brand,Marca,module,frontend/Mgs/claue
@@ -25366,20 +25364,20 @@ Reset Filter,de reajuste del filtro,module,frontend/Mgs/claue
 There are no brands matching the selection.,No hay marcas que concuerden con la selección.,module,frontend/Mgs/claue
 There are no menus matching the selection.,No hay menús concuerden con la selección.,module,frontend/Mgs/claue
 "Please create attribute ""' . . '"" or edit block to change attribute.","Por favor, cree atributo "" '.'"" O editar bloque de atribuir el cambio.",module,frontend/Mgs/claue
-"The category ""%1"" haven't top attribute product.","La categoría ""% 1"" disponemos del producto atributo no superior.",module,frontend/Mgs/claue
+"The category ""%1"" haven't top attribute product.","La categoría ""%1"" disponemos del producto atributo no superior.",module,frontend/Mgs/claue
 View More Products,Ver más productos,module,frontend/Mgs/claue
 There are no categories matching the selection.,No hay categorías concuerden con la selección.,module,frontend/Mgs/claue
 There are no products matching the selection.,No hay productos que coincidan con la selección.,module,frontend/Mgs/claue
-"The category ""%1"" haven't product.","La categoría ""% 1"" no tiene producto.",module,frontend/Mgs/claue
+"The category ""%1"" haven't product.","La categoría ""%1"" no tiene producto.",module,frontend/Mgs/claue
 There are no deals matching the selection.,No hay ofertas que coincidan con la selección.,module,frontend/Mgs/claue
 days,dias,module,frontend/Mgs/claue
 hrs,horas,module,frontend/Mgs/claue
 mins,minutos,module,frontend/Mgs/claue
 secs,seco,module,frontend/Mgs/claue
 Shop Now,Compra ahora,module,frontend/Mgs/claue
-"The category ""%1"" haven't top new product.","La categoría ""% 1"" no tiene la parte superior de nuevos productos.",module,frontend/Mgs/claue
-"The category ""%1"" haven't top rate product.","La categoría ""% 1"" disponemos del producto tasa no superior.",module,frontend/Mgs/claue
-"The category ""%1"" haven't top sale product.","La categoría ""% 1"" disponemos del producto venta no superior.",module,frontend/Mgs/claue
+"The category ""%1"" haven't top new product.","La categoría ""%1"" no tiene la parte superior de nuevos productos.",module,frontend/Mgs/claue
+"The category ""%1"" haven't top rate product.","La categoría ""%1"" disponemos del producto tasa no superior.",module,frontend/Mgs/claue
+"The category ""%1"" haven't top sale product.","La categoría ""%1"" disponemos del producto venta no superior.",module,frontend/Mgs/claue
 There are no product matching the selection.,No hay productos que correspondan a la selección.,module,frontend/Mgs/claue
 There are no tabs matching the selection.,No hay pestañas concuerden con la selección.,module,frontend/Mgs/claue
 There are no sliders matching the selection.,No hay controles deslizantes concuerden con la selección.,module,frontend/Mgs/claue
@@ -25425,7 +25423,7 @@ There are no testimonials matching the selection.,No hay testimonios que concuer
 Go back to product details,Volver a los detalles del producto,module,frontend/Mgs/claue
 Customize and Add to Cart,Personalizar y añadir al carrito,module,frontend/Mgs/claue
 Your Customization,su personalización,module,frontend/Mgs/claue
-%1 x %2,% 1 x% 2,module,frontend/Mgs/claue
+%1 x %2,%1 x% 2,module,frontend/Mgs/claue
 Availability,Disponibilidad,module,frontend/Mgs/claue
 Availability:,Disponibilidad:,module,frontend/Mgs/claue
 In stock,En stock,module,frontend/Mgs/claue
@@ -25433,7 +25431,7 @@ Out of stock,Agotado,module,frontend/Mgs/claue
 None,Ninguna,module,frontend/Mgs/claue
 Quantity,Cantidad,module,frontend/Mgs/claue
 Choose a selection...,Elija una selección ...,module,frontend/Mgs/claue
-Customize: %1,Personalizar:% 1,module,frontend/Mgs/claue
+Customize: %1,Personalizar:%1,module,frontend/Mgs/claue
 No options of this product are available.,No hay opciones disponibles para este producto.,module,frontend/Mgs/claue
 SKU,SKU,module,frontend/Mgs/claue
 Gift Message,Mensaje de regalo,module,frontend/Mgs/claue
@@ -25469,7 +25467,7 @@ Remove This Item,Eliminar este elemento,module,frontend/Mgs/claue
 Compare,Comparar,module,frontend/Mgs/claue
 We can't find products matching the selection.,No podemos encontrar productos que concuerden con la selección.,module,frontend/Mgs/claue
 Add to cart,Añadir al carrito,module,frontend/Mgs/claue
-Items %1-%2 of %3,Artículos% 1-% 2 de% 3,module,frontend/Mgs/claue
+Items %1-%2 of %3,Artículos%1-% 2 de% 3,module,frontend/Mgs/claue
 %1 Item,%1 articulo,module,frontend/Mgs/claue
 %1 Items,Artículos %1,module,frontend/Mgs/claue
 per page,por página,module,frontend/Mgs/claue
@@ -25513,7 +25511,7 @@ Edit,Editar,module,frontend/Mgs/claue
 Newsletters,boletines,module,frontend/Mgs/claue
 "You subscribe to ""General Subscription"".","Se suscribe a ""General suscripción"".",module,frontend/Mgs/claue
 You don't subscribe to our newsletter.,Usted no está suscrito a nuestro boletín de noticias.,module,frontend/Mgs/claue
-Back,Espalda,module,frontend/Mgs/claue
+Back,Atrás,module,frontend/Mgs/claue
 My Account,Mi cuenta,module,frontend/Mgs/claue
 You have no default billing address in your address book.,Usted no tiene ninguna dirección de facturación por defecto en su libreta de direcciones.,module,frontend/Mgs/claue
 You have no default shipping address in your address book.,Usted no tiene ninguna dirección de envío predeterminada en su libreta de direcciones.,module,frontend/Mgs/claue
@@ -25528,9 +25526,9 @@ Address,Habla a,module,frontend/Mgs/claue
 Street Address,Dirección,module,frontend/Mgs/claue
 Street Address %1,Dirección Calle 1,module,frontend/Mgs/claue
 VAT Number,Número de valor agregado,module,frontend/Mgs/claue
-State/Province,Provincia del estado,module,frontend/Mgs/claue
+State/Province,Estado,module,frontend/Mgs/claue
 "Please select a region, state or province.","Por favor, seleccione una región, estado o provincia.",module,frontend/Mgs/claue
-Zip/Postal Code,Zip / Código Postal,module,frontend/Mgs/claue
+Zip/Postal Code,Código Postal,module,frontend/Mgs/claue
 It's a default billing address.,Es una dirección de facturación por defecto.,module,frontend/Mgs/claue
 Use as my default billing address,Utilizar como dirección de facturación por defecto,module,frontend/Mgs/claue
 It's a default shipping address.,Es una dirección de envío predeterminada.,module,frontend/Mgs/claue
@@ -25581,7 +25579,7 @@ item,articulo,module,frontend/Mgs/claue
 items,artículos,module,frontend/Mgs/claue
 Now Shopping by,Ahora está comprando por,module,frontend/Mgs/claue
 Remove,Eliminar,module,frontend/Mgs/claue
-Filter by %1,Filtrar por% 1,module,frontend/Mgs/claue
+Filter by %1,Filtrar por %1,module,frontend/Mgs/claue
 Other items in your order,Otros artículos en su pedido,module,frontend/Mgs/claue
 Edit Items,Editar elementos,module,frontend/Mgs/claue
 Shipping is not applicable.,El envío no es aplicable.,module,frontend/Mgs/claue
@@ -25603,7 +25601,7 @@ Back to Shipping Information,Volver a la información de envío,module,frontend/
 Go to Review Your Order,Ir a revisar su pedido,module,frontend/Mgs/claue
 Billing Information,Datos de facturación,module,frontend/Mgs/claue
 Shipping Information,Información de envío,module,frontend/Mgs/claue
-Address %1 <span>of %2</span>,La dirección% 1 <span> de 2% </ span>,module,frontend/Mgs/claue
+Address %1 <span>of %2</span>,La dirección %1 <span> de 2% </ span>,module,frontend/Mgs/claue
 Shipping To,Embarcar hacia,module,frontend/Mgs/claue
 Shipping Method,Método de envío,module,frontend/Mgs/claue
 Incl. Tax,Incl. Impuesto,module,frontend/Mgs/claue
@@ -25625,7 +25623,7 @@ Don't show this popup again,No mostrar esta ventana de nuevo,module,frontend/Mgs
 Product Reviews,Evaluación de productos,module,frontend/Mgs/claue
 Created,Creado,module,frontend/Mgs/claue
 Rating,Clasificación,module,frontend/Mgs/claue
-Review,revisión,module,frontend/Mgs/claue
+Review,Reseña,module,frontend/Mgs/claue
 See Details,Ver detalles,module,frontend/Mgs/claue
 You have submitted no reviews.,Ha enviado ningún comentario.,module,frontend/Mgs/claue
 My Recent Reviews,Mis comentarios recientes,module,frontend/Mgs/claue
@@ -25643,7 +25641,7 @@ Submit Review,Enviar opinión,module,frontend/Mgs/claue
 Reviews,Comentarios,module,frontend/Mgs/claue
 Add Your Review,Agrega tu evaluación,module,frontend/Mgs/claue
 Be the first to review this product,Sé el primero en revisar este producto,module,frontend/Mgs/claue
-%1 Review(s),% 1 Comentario (s),module,frontend/Mgs/claue
+%1 Review(s), %1 Comentario (s),module,frontend/Mgs/claue
 Customer Reviews,Opiniones de los usuarios,module,frontend/Mgs/claue
 Review by,Revisado por,module,frontend/Mgs/claue
 Posted on,Publicado en,module,frontend/Mgs/claue
@@ -25736,7 +25734,7 @@ You can create an account after checkout.,Puede crear una cuenta después de la 
 You already have an account with us. Sign in or continue as guest.,Usted ya tiene una cuenta con nosotros. Inicia sesión o continuar como invitado.,module,frontend/Mgs/claue
 You have no items in your shopping cart.,No tiene artículos en su carrito de compras.,module,frontend/Mgs/claue
 Go To Cart,Ir al carrito,module,frontend/Mgs/claue
-Check Out,Revisa,module,frontend/Mgs/claue
+Check Out,Revisar pedido,module,frontend/Mgs/claue
 Options Details,opciones detalles,module,frontend/Mgs/claue
 See price before order confirmation.,Ver precio antes de la confirmación del pedido.,module,frontend/Mgs/claue
 Update,Actualizar,module,frontend/Mgs/claue
@@ -25760,3 +25758,7 @@ You are signed out,Que haya iniciado sesión a cabo,module,frontend/Mgs/claue
 Check Out with Multiple Addresses,Hora de salida con múltiples direcciones,module,frontend/Mgs/claue
 Email to a Friend,Enviar un correo electronico a un amigo,module,frontend/Mgs/claue
 Contact Us,Contáctenos,module,frontend/Mgs/claue
+Sale Products,Productos en Oferta,module,frontend/Mgs/claue
+Reviews,Reseñas,module,frontend/Mgs/claue
+You have added %1 to shopping cart.,Has agregado %1 a tu carrito.,module,frontend/Mgs/claue
+Enter your destination to get a shipping estimate.,Ingrese su destino para obtener un precio estimado de envío.,module,frontend/Mgs/claue
