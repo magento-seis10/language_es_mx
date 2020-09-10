@@ -4340,7 +4340,6 @@ Account Information,Información de la cuenta,theme,frontend/Magento/blank
 Address Book,Libreta de direcciones,theme,frontend/Magento/blank
 Menu,Menú,theme,frontend/Magento/blank
 Settings,Configuraciones,theme,frontend/Magento/blank
-Summary,Resumen,theme,frontend/Magento/blank
 %customer_name,,%customer_name,,theme,frontend/Magento/luma
 %name,,%name,,theme,frontend/Magento/luma
 <a href=tel:%store_phone>%store_phone</a>,<a href=tel:%store_phone>%store_phone</a>,theme,frontend/Magento/luma
@@ -5659,7 +5658,6 @@ Something went wrong.,Algo salió mal.,module,Magento_AsynchronousOperations
 Sorry, something went wrong during product prices update. Please see log for details.,Lo sentimos, algo salió mal durante la actualización de los precios del producto. Por favor, consulte el registro para más detalles.,module,Magento_AsynchronousOperations
 Start Time,Hora de inicio,module,Magento_AsynchronousOperations
 Status,Estado,module,Magento_AsynchronousOperations
-Summary,Resumen,module,Magento_AsynchronousOperations
 Task %1:,Tarea 1:,module,Magento_AsynchronousOperations
 Task %1: ,Tarea %1: ,module,Magento_AsynchronousOperations
 To retry, select the items and click “Retry”.,Para volver a intentarlo, seleccione los elementos y haga clic en Reintentar.,module,Magento_AsynchronousOperations
@@ -7072,7 +7070,6 @@ Special Price,Special Price,module,Magento_Bundle
 Status,Estado,module,Magento_Bundle
 Store View Title,Título de vista de tienda,module,Magento_Bundle
 Subtotal,Subtotal,module,Magento_Bundle
-Summary,Resumen,module,Magento_Bundle
 The bundle product can't contain another composite product.,El producto del paquete no puede contener otro producto compuesto.,module,Magento_Bundle
 The bundle product doesn't exist. Review your request and try again.,El producto del paquete no existe. Revise su solicitud y vuelva a intentarlo.,module,Magento_Bundle
 The option couldn't be saved.,La opción no se pudo guardar.,module,Magento_Bundle
@@ -8867,7 +8864,6 @@ Sorry, guest checkout is not available.,Disculpe, no es posible realizar pedidos
 Sorry, no quotes are available for this order at this time,Lo sentimos, no hay cotizaciones disponibles para este pedido en este momento,module,Magento_Checkout
 State/Province,Estado/Provincia,module,Magento_Checkout
 Subtotal,Subtotal,module,Magento_Checkout
-Summary,Resumen,module,Magento_Checkout
 Thank you for your purchase!,¡Gracias por su compra!,module,Magento_Checkout
 The coupon code %1 is not valid.,El cupón %1 no es válido.,module,Magento_Checkout
 The customer address is not valid.,La dirección del cliente no es válida.,module,Magento_Checkout
@@ -10052,7 +10048,6 @@ Step 2: Attribute Values,Paso 2: Valores de atributo,module,Magento_Configurable
 Step 3: Bulk Images, Price and Quantity,Paso 3: Conjunto de Imágenes, Precio, y Cantidades,module,Magento_ConfigurableProduct
 Step 3: Bulk Images, Price, and Quantity,Paso 3: Conjunto de Imágenes, Precio, y Cantidades,module,Magento_ConfigurableProduct
 Step 4: Summary,Paso 4: Resumen,module,Magento_ConfigurableProduct
-Summary,Resumen,module,Magento_ConfigurableProduct
 System,Sistema,module,Magento_ConfigurableProduct
 The %1 entity that was requested doesn't exist. Verify the entity and try again.,The %1 entity that was requested doesn't exist. Verify the entity and try again.,module,Magento_ConfigurableProduct
 The child product doesn't have the %1 attribute value. Verify the value and try again.,The child product doesn't have the %1 attribute value. Verify the value and try again.,module,Magento_ConfigurableProduct
@@ -13085,7 +13080,6 @@ Source file coping failed,La copia de archivos de origen fracasó,module,Magento
 Start Date&Time,Fecha y hora de inicio,module,Magento_ImportExport
 Status,Estado,module,Magento_ImportExport
 Stop on Error,Parar en error,module,Magento_ImportExport
-Summary,Resumen,module,Magento_ImportExport
 The adapter object must be an instance of %1.,El objeto adaptador debe ser una instancia de %1.,module,Magento_ImportExport
 The adapter type must be a non-empty string.,El tipo de adaptador debe ser una cadena no vacía.,module,Magento_ImportExport
 The behavior token for %1 is invalid.,El símbolo de comportamiento para %1 no es válido.,module,Magento_ImportExport
@@ -16876,7 +16870,6 @@ Storage key was not set,No se ha establecido la clave de almacenamiento,module,M
 Store: %1 <br/>,Tienda: %1 <br/>,module,Magento_Review
 Submit Review,Transmitir reseña del cliente,module,Magento_Review
 Submitted on %1,Enviado el %1,module,Magento_Review
-Summary,Resumen,module,Magento_Review
 Summary of Review,Resumen de reseñas,module,Magento_Review
 Summary of review: %1 <br/>,Resumen del reseña: %1 <br/>,module,Magento_Review
 Summary Rating,Resumen de valoración,module,Magento_Review
@@ -21366,7 +21359,6 @@ Sorry, something went wrong. Please try again or contact us and we\'ll try to he
 Sort Order,Ordenación,module,Magento_Usps
 Standard Post,Standard Post,module,Magento_Usps
 Title,Título,module,Magento_Usps
-track_summary,track_summary,module,Magento_Usps
 User ID,ID de Usuario,module,Magento_Usps
 USPS,USPS,module,Magento_Usps
 USPS GXG Envelopes,USPS GXG Sobres,module,Magento_Usps
@@ -25505,7 +25497,6 @@ Write Your Own Review,Escriba su propia opinión,module,frontend/Mgs/claue
 You're reviewing: ,Usted está opinando sobre:,module,frontend/Mgs/claue
 %1 %2,%1 %2,module,frontend/Mgs/claue
 Nickname,Apodo,module,frontend/Mgs/claue
-Summary,Resumen,module,frontend/Mgs/claue
 Submit Review,Enviar opinión,module,frontend/Mgs/claue
 Only registered users can write reviews. Please <a href=%1>Sign in</a> or <a href=%2>create an account</a>,Sólo los usuarios registrados pueden agregar sus comentarios. Por favor, <a href=%1> Entra </a> o <a href=%2> crear una cuenta </a>,module,frontend/Mgs/claue
 Reviews,Comentarios,module,frontend/Mgs/claue
@@ -25622,7 +25613,6 @@ Welcome, %1!,Bienvenido, %1!,module,frontend/Mgs/claue
 Overview,Visión general,module,frontend/Mgs/claue
 Home,Inicio,module,frontend/Mgs/claue
 Shopping Cart,Carrito de compras,module,frontend/Mgs/claue
-steps,pasos,module,frontend/Mgs/claue
 Thank you for your purchase!,Gracias por su compra!,module,frontend/Mgs/claue
 You are signed out,Que haya iniciado sesión a cabo,module,frontend/Mgs/claue
 Check Out with Multiple Addresses,Hora de salida con múltiples direcciones,module,frontend/Mgs/claue
