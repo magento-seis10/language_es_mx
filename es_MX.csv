@@ -10480,16 +10480,16 @@ Group for Valid VAT ID - Intra-Union,ID de IVA válido para grupo - instraunión
 Group Information,Información del grupo,module,Magento_Customer
 Group Name,Nombre del grupo,module,Magento_Customer
 Guest checkout is disabled.,El pago de invitado está deshabilitado.,module,Magento_Customer
-Hello,,Hola,,module,Magento_Customer
+"Hello,","Hola,",module,Magento_Customer
 HTML,HTML,module,Magento_Customer
 ID,ID,module,Magento_Customer
-If there is an account associated with %1 you will receive an email with a link to reset your password.,Si hay una cuenta asociada a %1 recibirá un correo electrónico con un enlace para restablecer tu contraseña.,module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Si hay una cuenta asociada a %1 recibirá un correo electrónico con un enlace para restablecer tu contraseña.",module,Magento_Customer
 If you believe it is the right one you can ignore this notice.,Si cree que es la correcta, puede ignorar este aviso.,module,Magento_Customer
-If you believe this is an error, please contact us at %1,Si usted cree que esto es un error, por favor contáctenos en %1,module,Magento_Customer
-If you did not make this request, you can ignore this email and your password will remain the same.,Si no ha realizado esta solicitud, puede ignorar este mensaje y su contraseña seguirá siendo la misma.,module,Magento_Customer
-If you did not request this change, please contact us.,Si usted no ha solicitado este cambio, por favor, póngase en contacto con nosotros.,module,Magento_Customer
-If you have an account, sign in with your email address.,Si tiene una cuenta, inicie sesión con su dirección de correo electrónico.,module,Magento_Customer
-If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.,Si su instalación de Magento tiene varios sitios web, puede editar el alcance para asociar al cliente con un sitio específico.,module,Magento_Customer
+"If you believe this is an error, please contact us at %1","Si usted cree que esto es un error, por favor contáctenos en %1 ",module,Magento_Customer
+"If you did not make this request, you can ignore this email and your password will remain the same.","Si no ha realizado esta solicitud, puede ignorar este mensaje y su contraseña seguirá siendo la misma.",module,Magento_Customer
+"If you did not request this change, please contact us.","Si usted no ha solicitado este cambio, por favor, póngase en contacto con nosotros.",module,Magento_Customer
+"If you have an account, sign in with your email address.","Si tiene una cuenta, inicie sesión con su dirección de correo electrónico.",module,Magento_Customer
+"If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.","Si su instalación de Magento tiene varios sitios web, puede editar el alcance para asociar al cliente con un sitio específico.",module,Magento_Customer
 If your Magento site has multiple views, you can set the scope to apply to a specific view.,Si su Magento tiene varias vistas, puede fijar el alcance a aplicar a una vista específica.,module,Magento_Customer
 Indeterminate,Indeterminado,module,Magento_Customer
 InputException,InputException,module,Magento_Customer
@@ -25410,13 +25410,13 @@ Please enter your email address below to receive a password reset link.,Por favo
 Enter your email...,Introduce tu correo electrónico...,module,frontend/Mgs/claue
 Reset My Password,Restablecer mi contraseña,module,frontend/Mgs/claue
 Registered Customers,Clientes Registrados,module,frontend/Mgs/claue
-If you have an account, sign in with your email address.,Si usted tiene una cuenta, inicia sesión con su dirección de correo electrónico.,module,frontend/Mgs/claue
+"If you have an account, sign in with your email address.","Si usted tiene una cuenta, inicia sesión con su dirección de correo electrónico.",module,frontend/Mgs/claue
 Email Address,Dirección de correo electrónico,module,frontend/Mgs/claue
 Password,Contraseña,module,frontend/Mgs/claue
 Sign In,Registrarse,module,frontend/Mgs/claue
 Forgot Your Password?,¿Olvidaste tu contraseña?,module,frontend/Mgs/claue
-Subscription option,opción de suscripción,module,frontend/Mgs/claue
-General Subscription,general de suscripción,module,frontend/Mgs/claue
+Subscription option,Opción de Suscripción,module,frontend/Mgs/claue
+General Subscription,Suscripción General,module,frontend/Mgs/claue
 Personal Information,Informacion personal,module,frontend/Mgs/claue
 Sign Up for Newsletter,Suscribirse al boletín,module,frontend/Mgs/claue
 Address Information,Datos del Domicilio,module,frontend/Mgs/claue
@@ -25436,7 +25436,7 @@ Remaining Downloads,Descargas restantes,module,frontend/Mgs/claue
 View Order,Ver pedido,module,frontend/Mgs/claue
 Start Download,Comienza a descargar,module,frontend/Mgs/claue
 You have not purchased any downloadable products yet.,Usted no ha comprado ningún producto descargables todavía.,module,frontend/Mgs/claue
-Grouped product items,artículos de productos agrupados,module,frontend/Mgs/claue
+Grouped product items,Artículos agrupados,module,frontend/Mgs/claue
 item,articulo,module,frontend/Mgs/claue
 items,artículos,module,frontend/Mgs/claue
 Now Shopping by,Ahora está comprando por,module,frontend/Mgs/claue
@@ -25475,7 +25475,7 @@ Grand Total:,Gran total:,module,frontend/Mgs/claue
 Place Order,Realizar pedido,module,frontend/Mgs/claue
 Submitting order information...,La presentación de la información del pedido ...,module,frontend/Mgs/claue
 Change Address,Cambiar dirección,module,frontend/Mgs/claue
-Sorry, no quotes are available for this order right now.,Lo sentimos, no hay citas disponibles para este fin en este momento.,module,frontend/Mgs/claue
+"Sorry, no quotes are available for this order right now.","Lo sentimos, no hay precios disponibles para este pedido en este momento.",module,frontend/Mgs/claue
 Back to Select Addresses,Volver a seleccionar las direcciones,module,frontend/Mgs/claue
 Continue to Billing Information,Seguir la información de facturación,module,frontend/Mgs/claue
 Enter your email address,Introduzca su dirección de correo electrónico,module,frontend/Mgs/claue
