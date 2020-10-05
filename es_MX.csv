@@ -24618,7 +24618,7 @@ There are no stores.,No hay tiendas.,module,frontend/Mgs/claue
 "Zip Code: %1","Código postal: %1",module,frontend/Mgs/claue
 "Phone: %1","Teléfono: %1",module,frontend/Mgs/claue
 Phone: ,Teléfono:,module,frontend/Mgs/claue
-Details,detalles,module,frontend/Mgs/claue
+Details,Detalles,module,frontend/Mgs/claue
 View Map,Ver el mapa,module,frontend/Mgs/claue
 Your Location,Tu ubicación,module,frontend/Mgs/claue
 Show All Stores,Mostrar todas las tiendas,module,frontend/Mgs/claue
@@ -24705,7 +24705,7 @@ Update Cart,Actualización de la compra,module,frontend/Mgs/claue
 Edit item parameters,parámetros de edición de artículos,module,frontend/Mgs/claue
 Remove item,Remover el artículo,module,frontend/Mgs/claue
 My Cart,Mi carrito,module,frontend/Mgs/claue
-Mini Cart,Mini Cart,module,frontend/Mgs/claue
+Mini Cart,Carrito de Compras,module,frontend/Mgs/claue
 Estimate Tax,Estimar Impuestos,module,frontend/Mgs/claue
 Estimate Shipping and Tax,Envío e impuesto estimado,module,frontend/Mgs/claue
 Send us a message,Mandanos un mensaje,module,frontend/Mgs/claue
@@ -24952,9 +24952,9 @@ Update,Actualizar,module,frontend/Mgs/claue
 Total:,Total:,module,frontend/Mgs/claue
 Close,Cerca,module,frontend/Mgs/claue
 Go to Checkout,A la Caja,module,frontend/Mgs/claue
-Recently added item(s),artículo (s) recientemente agregado,module,frontend/Mgs/claue
+"Recently added item(s)","artículo (s) recientemente agregado",module,frontend/Mgs/claue
 View and edit cart,Ver y editar la compra,module,frontend/Mgs/claue
-Gift Message (optional),Mensaje de regalo (opcional),module,frontend/Mgs/claue
+"Gift Message (optional)","Mensaje de regalo (opcional)",module,frontend/Mgs/claue
 Cancel,Cancelar,module,frontend/Mgs/claue
 "Sorry, something went wrong. Please try again later.","Perdón, algo salió mal. Por favor, inténtelo de nuevo más tarde.",module,frontend/Mgs/claue
 Adding...,Añadiendo ...,module,frontend/Mgs/claue
@@ -24991,7 +24991,7 @@ Seller Profile,Perfil del vendedor,module,frontend/Mgs/claue
 Marketplace Edit Seller Profile,Mercado Editar perfil de vendedor,module,frontend/Mgs/claue
 Save Profile,Guardar perfil,module,frontend/Mgs/claue
 Profile Information,Información del perfil,module,frontend/Mgs/claue
-"Enter Meta Keywords Comma(',') Separated..","Ingrese los Metadatos separados por coma(',')",module,frontend/Mgs/claue
+"(Enter Meta Keywords Comma(',') Separated..)","(Ingrese los Metadatos separados por coma(','))",module,frontend/Mgs/claue
 Benny's Place,La Tienda de Benny,module,frontend/Mgs/claue
 Shop Title,Título de la tienda,module,frontend/Mgs/claue
 Company Banner,Banner de la empresa,module,frontend/Mgs/claue
@@ -25060,9 +25060,9 @@ No Order Available,Ningún pedido disponible,module,frontend/Mgs/claue
 My Customer History,Mi historial de cliente,module,frontend/Mgs/claue
 Contact No.,Contacto No.,module,frontend/Mgs/claue
 ID,Identificador,module,frontend/Mgs/claue
-Price Rating(in star),Calificación de precio (en estrella),module,frontend/Mgs/claue
-Value Rating(in star),Calificación de valor (en estrella),module,frontend/Mgs/claue
-Quality Rating(in star),Calificación de calidad (en estrella),module,frontend/Mgs/claue
+"Price Rating(in star)","Calificación de precio (en estrella)",module,frontend/Mgs/claue
+"Value Rating(in star)","Calificación de valor (en estrella)",module,frontend/Mgs/claue
+"Quality Rating(in star)","Calificación de calidad (en estrella)",module,frontend/Mgs/claue
 Feed Summary,Resumen de la reseña,module,frontend/Mgs/claue
 Feed Review,Revisión de la reseña,module,frontend/Mgs/claue
 Account,Cuenta,module,frontend/Mgs/claue 
@@ -25078,3 +25078,50 @@ Fixed,Fija,module,frontend/Mgs/claue
 Flat Rate - Fixed,Tarifa - Fija,frontend/Mgs/claue
 Sold By,Vendido por,frontend/Mgs/claue
 Click here to continue shopping, Haga clic aquí para seguir comprando,frontend/Mgs/claue
+Total Products, Total de Productos,frontend/Mgs/claue
+Sell your Product and Earn Profit,Venda su producto y obtenga ganancias,module,frontend/Mgs/claue
+Contact Seller,Contacto del vendedor,module,frontend/Mgs/claue
+Report Product,Informe de producto,module,frontend/Mgs/claue
+Choose an appropriate reason to flag,Elija una razón adecuada para marcar,module,frontend/Mgs/claue
+Other,Otro,module,frontend/Mgs/claue
+Write a reason to flag this product,Escriba un motivo para marcar este producto,module,frontend/Mgs/claue
+"If you created this account using Amazon Pay, you might not know your site password","Si creó esta cuenta con Amazon Pay, es posible que no sepa la contraseña de su sitio",module,frontend/Mgs/claue
+Values Required,Valores requeridos,module,frontend/Mgs/claue
+Taxable Goods,Bienes sujetos a impuestos,module,frontend/Mgs/claue
+Refund Adjustments,Ajustes de reembolso,module,frontend/Mgs/claue
+Gift Options,Opciones de regalo,module,frontend/Mgs/claue
+Order Gift Wrapping,Solicitar envoltura de regalo,module,frontend/Mgs/claue
+Item Gift Wrapping,Envoltorio de regalo del artículo,module,frontend/Mgs/claue
+Printed Gift Card,Tarjeta de regalo impresa,module,frontend/Mgs/claue
+Reward Points,Puntos de recompensa,module,frontend/Mgs/claue
+Summary,Resumen,module,frontend/Mgs/claue
+About,Acerca de,module,frontend/Mgs/claue
+Contact,Contacto,module,frontend/Mgs/claue
+Recently Added Products,Productos agregados recientemente,module,frontend/Mgs/claue
+View Detail,Ver Detalle,module,frontend/Mgs/claue
+View All Reviews,Ver todas las reseñas,module,frontend/Mgs/claue
+"View All %1 Products","Ver todos los productos %1",module,frontend/Mgs/claue
+Average Rating,Puntuación media,module,frontend/Mgs/claue
+positive feedback,retroalimentación positiva,module,frontend/Mgs/claue
+Average Price,Precio promedio,module,frontend/Mgs/claue
+Average Value,Valor promedio,module,frontend/Mgs/claue
+Average Quality,Calidad media,module,frontend/Mgs/claue
+Star,Estrella,module,frontend/Mgs/claue
+"The coupon code "%1" is not valid.","El código de cupón "% 1" no es válido.",module,frontend/Mgs/claue
+"Check / Money order","Check / Money order",module,frontend/Mgs/claue
+Pending,Pendiente,module,frontend/Mgs/claue
+Customer,Cliente,module,frontend/Mgs/claue
+"Order Total (Base)","Total del pedido (base)",module,frontend/Mgs/claue
+"Order Total (Purchased)","Total del pedido (comprado)",module,frontend/Mgs/claue
+View Order Details,Ver detalles de la orden,module,frontend/Mgs/claue
+Manage Order,Administrar pedido,module,frontend/Mgs/claue
+Order Date,Fecha de orden,module,frontend/Mgs/claue
+Total Ordered Amount,Monto total pedido,module,frontend/Mgs/claue
+Total Vendor Amount ,Monto total del proveedor,module,frontend/Mgs/claue
+Total Admin Commission,Comisión administrativa total,module,frontend/Mgs/claue
+Buyer Information,Información del comprador,module,frontend/Mgs/claue
+Back To My Orders,Volver a mis pedidos,module,frontend/Mgs/claue
+Download Invoice Slip,Descargar comprobante de factura,module,frontend/Mgs/claue
+Sales,Ventas,module,frontend/Mgs/claue
+Whoops, our bad...,Oops, algo salio mál...,module,frontend/Mgs/claue
+Your mail has been sent.,Su correo ha sido enviado.,module,frontend/Mgs/claue
