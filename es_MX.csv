@@ -808,7 +808,7 @@ You saved the item.,Guardaste el artículo.,module,Amasty_Faq
 You saved the item. Answer sent to Customer's Email.,Guardaste el artículo. Respuesta enviada al correo electrónico del cliente.,module,Amasty_Faq 
 You successfully voted,Votaste exitosamente,module,Amasty_Faq 
 Your e-mail:,Tu correo electrónico:,module,Amasty_Faq 
-Your name:,Tu nombre:,module,Amasty_Faq 
+Your name,Tu nombre,module,Amasty_Faq 
 Your question:,Tu pregunta:,module,Amasty_Faq 
 "Your Question: %question","Tu pregunta: %question",module,Amasty_Faq 
  "with %1 errors"," con %1 errores",module,Amasty_Finder 
@@ -25014,8 +25014,8 @@ CATEGORIES,CATEGORIAS,module,frontend/Mgs/claue
 Special Price To,Precio especial para,module,frontend/Mgs/claue
 Allowed Product Qty on Product Purchase for Customer,Cantidad de producto permitida en la compra de productos para el cliente,module,frontend/Mgs/claue
 "By default %1 qty will be allowed for customer to add in cart.","Por defecto, se permitirá que el cliente agregue %1 cantidades en el carrito de compras.",module,frontend/Mgs/claue
-Product Images:,Imágenes del producto:,module,frontend/Mgs/claue
-"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Los productos configurables permiten a los clientes elegir opciones (por ejemplo, el color de la camisa). Necesita crear un producto simple para cada configuración (por ejemplo, un producto para cada color).",module,frontend/Mgs/claue
+Product Images,Imágenes del producto,module,frontend/Mgs/claue
+"Configurable products allow customers to choose options (Ex: shirt color).You need to create a simple product for each configuration (Ex: a product for each color).","Los productos configurables permiten a los clientes elegir opciones (por ejemplo, el color de la camisa). Necesita crear un producto simple para cada configuración (por ejemplo, un producto para cada color).",module,frontend/Mgs/claue
 These "impulse-buy" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.,Estos productos de "compra por impulso" aparecen junto al carrito de compras como ventas cruzadas a los artículos que ya están en el carrito de compras.,module,frontend/Mgs/claue
 My Product List,Mi lista de productos,module,frontend/Mgs/claue
 Marketplace Product List,Lista de productos de Mercado,module,frontend/Mgs/claue
@@ -25080,10 +25080,10 @@ Click here to continue shopping, Haga clic aquí para seguir comprando,frontend/
 Total Products, Total de Productos,frontend/Mgs/claue
 Sell your Product and Earn Profit,Venda su producto y obtenga ganancias,module,frontend/Mgs/claue
 Contact Seller,Contacto del vendedor,module,frontend/Mgs/claue
-Report Product,Informe de producto,module,frontend/Mgs/claue
+Report Product,Reportar producto,module,frontend/Mgs/claue
 Choose an appropriate reason to flag,Elija una razón adecuada para marcar,module,frontend/Mgs/claue
 Other,Otro,module,frontend/Mgs/claue
-Write a reason to flag this product,Escriba un motivo para marcar este producto,module,frontend/Mgs/claue
+Write a reason to flag this product,Escriba un motivo para reportar este producto,module,frontend/Mgs/claue
 "If you created this account using Amazon Pay, you might not know your site password","Si creó esta cuenta con Amazon Pay, es posible que no sepa la contraseña de su sitio",module,frontend/Mgs/claue
 Values Required,Valores requeridos,module,frontend/Mgs/claue
 Taxable Goods,Bienes sujetos a impuestos,module,frontend/Mgs/claue
@@ -25129,7 +25129,7 @@ Seller Request Panel,Panel de solicitud del vendedor,module,frontend/Mgs/claue
 Please enter shop URL,Introduzca la URL de la tienda,module,frontend/Mgs/claue
 Marketplace Become Seller,Marketplace Convertirse en vendedor,module,frontend/Mgs/claue
 Do you want to become a seller / vendor ?,Quiere convertirse en Comerciante / Vendedor ?,module,frontend/Mgs/claue
-Report Product,Informe de producto,module,frontend/Mgs/claue
+Report Product,Reportar producto,module,frontend/Mgs/claue
 "%1 Products","%1 productos",module,frontend/Mgs/claue
 Date Untill,Fecha hasta,module,frontend/Mgs/claue
 Download Packaging Slip,Descargar hoja de empaque,module,frontend/Mgs/claue
@@ -25148,3 +25148,8 @@ Grouped Product,Producto Agrupado,module,frontend/Mgs/claue
 Bundle Product,Producto en Paquete,module,frontend/Mgs/claue
 Sign In,Iniciar Sesión,module,frontend/Mgs/claue
 Product Category,Categoría de Producto,module,frontend/Mgs/claue
+Report Seller,Reportar Vendedor,module,frontend/Mgs/claue
+Write a reason to flag this seller,Describa la razón para reportar este Vendedor,module,frontend/Mgs/claue
+Write Your Own Feedback,Escriba su propia reseña,module,frontend/Mgs/claue
+How do you rate this Store?,Califique ésta tienda,module,frontend/Mgs/claue
+"SELLER'S COLLECTION",Colección del Vendedor,module,frontend/Mgs/claue
