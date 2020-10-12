@@ -4226,8 +4226,8 @@ Print RMA Shipping Label,Imprimir la etiqueta de envío RMA,module,Lof_Rma
 Priority,Prioridad,module,Lof_Rma
 Product,Producto,module,Lof_Rma
 Product Information,Información del Producto,module,Lof_Rma
-Product Name,nombre del producto,module,Lof_Rma
-Product Type,tipo de producto,module,Lof_Rma
+Product Name,Nombre del Producto,module,Lof_Rma
+Product Type,Tipo de Producto,module,Lof_Rma
 Purchased From (Store),Comprado en (tienda),module,Lof_Rma
 Purchased On,Comprado en,module,Lof_Rma
 Qty,Cantidad,module,Lof_Rma
@@ -24713,10 +24713,10 @@ Phone,Teléfono,module,frontend/Mgs/claue
 Send Messages,Enviar mensajes,module,frontend/Mgs/claue
 Change,Cambio,module,frontend/Mgs/claue
 Address Book,Directorio,module,frontend/Mgs/claue
-Default Billing Address,direccion de FACTURACION por defecto,module,frontend/Mgs/claue
+Default Billing Address,Dirección de Facturación por Defecto,module,frontend/Mgs/claue
 Edit Address,Editar dirección,module,frontend/Mgs/claue
 Default Shipping Address,Dirección de entrega por defecto,module,frontend/Mgs/claue
-Manage Addresses,administrar direcciones,module,frontend/Mgs/claue
+Manage Addresses,Administrar Direcciones,module,frontend/Mgs/claue
 Contact Information,Información del contacto,module,frontend/Mgs/claue
 Change Password,Cambia la contraseña,module,frontend/Mgs/claue
 Edit,Editar,module,frontend/Mgs/claue
@@ -24763,7 +24763,6 @@ Registered Customers,Clientes Registrados,module,frontend/Mgs/claue
 "If you have an account, sign in with your email address.","Si usted tiene una cuenta, inicia sesión con su dirección de correo electrónico.",module,frontend/Mgs/claue
 Email Address,Dirección de correo electrónico,module,frontend/Mgs/claue
 Password,Contraseña,module,frontend/Mgs/claue
-Sign In,Registrarse,module,frontend/Mgs/claue
 Forgot Your Password?,¿Olvidaste tu contraseña?,module,frontend/Mgs/claue
 Subscription option,Opción de Suscripción,module,frontend/Mgs/claue
 General Subscription,Suscripción General,module,frontend/Mgs/claue
@@ -24981,12 +24980,12 @@ Ask Question to Admin,Hacer una pregunta al administrador,module,frontend/Mgs/cl
 Your Query,Su consulta,module,frontend/Mgs/claue
 Total Payout,Pago total,module,frontend/Mgs/claue
 Sales Stats,Estadísticas de ventas,module,frontend/Mgs/claue
- Remaining Amount ,Cantidad restante,module,frontend/Mgs/claue
+Remaining Amount,Cantidad Restante,module,frontend/Mgs/claue
 Top Selling Products,Productos más vendidos,module,frontend/Mgs/claue
 Top Selling Category,Categoría más vendida,module,frontend/Mgs/claue
 Latest Order,Último pedido,module,frontend/Mgs/claue
 Latest Comments & Reviews,Últimos comentarios y reseñas,module,frontend/Mgs/claue
-No comment & review available,No hay comentarios ó reseñas disponibles,module,frontend/Mgs/claue
+no comment & review available,No hay comentarios ó reseñas disponibles,module,frontend/Mgs/claue
 Seller Profile,Perfil del vendedor,module,frontend/Mgs/claue
 Marketplace Edit Seller Profile,Mercado Editar perfil de vendedor,module,frontend/Mgs/claue
 Save Profile,Guardar perfil,module,frontend/Mgs/claue
@@ -25145,3 +25144,7 @@ Make a Review,Hacer una reseña,module,frontend/Mgs/claue
 "1 Star (%1)","1 estrella (%1)",module,frontend/Mgs/claue
 Complete,Completar,module,frontend/Mgs/claue
 Downloadable,Descargable,module,frontend/Mgs/claue
+Grouped Product,Producto Agrupado,module,frontend/Mgs/claue
+Bundle Product,Producto en Paquete,module,frontend/Mgs/claue
+Sign In,Iniciar Sesión,module,frontend/Mgs/claue
+Product Category,Categoría de Producto,module,frontend/Mgs/claue
