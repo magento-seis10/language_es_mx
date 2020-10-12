@@ -24546,7 +24546,7 @@ Content,Contenido,module,frontend/Mgs/claue
 Your name,Tu nombre,module,frontend/Mgs/claue
 Name,Nombre,module,frontend/Mgs/claue
 Your email,Tu correo electrónico,module,frontend/Mgs/claue
-Email,Email,module,frontend/Mgs/claue
+Email,Correo Electrónico,module,frontend/Mgs/claue
 Send Messeages,Messeages de envío,module,frontend/Mgs/claue
 You must be logged in to post a comment.,Usted debe ser conectado para escribir un comentario.,module,frontend/Mgs/claue
 Click here,haga clic aquí,module,frontend/Mgs/claue
@@ -24624,7 +24624,7 @@ Your Location,Tu ubicación,module,frontend/Mgs/claue
 Show All Stores,Mostrar todas las tiendas,module,frontend/Mgs/claue
 Store Information,Almacenar información,module,frontend/Mgs/claue
 Address:,Habla a:,module,frontend/Mgs/claue
-Email:,Email:,module,frontend/Mgs/claue
+Email:,Correo Electrónico:,module,frontend/Mgs/claue
 Fax:,Fax:,module,frontend/Mgs/claue
 Phone:,Teléfono:,module,frontend/Mgs/claue
 Website:,Sitio web:,module,frontend/Mgs/claue
@@ -24748,7 +24748,7 @@ Use as my default shipping address,Uso como mi dirección de envío predetermina
 Save Address,Guardar Dirección,module,frontend/Mgs/claue
 Go back,Regresa,module,frontend/Mgs/claue
 Account Information,Información de la cuenta,module,frontend/Mgs/claue
-Change Email,Cambiar e-mail,module,frontend/Mgs/claue
+Change Email,Cambiar correo electrónico, module,frontend/Mgs/claue
 Change Email and Password,Cambio de correo electrónico y contraseña,module,frontend/Mgs/claue
 Current Password,contraseña actual,module,frontend/Mgs/claue
 New Password,Nueva contraseña,module,frontend/Mgs/claue
@@ -24981,7 +24981,7 @@ Ask Question to Admin,Hacer una pregunta al administrador,module,frontend/Mgs/cl
 Your Query,Su consulta,module,frontend/Mgs/claue
 Total Payout,Pago total,module,frontend/Mgs/claue
 Sales Stats,Estadísticas de ventas,module,frontend/Mgs/claue
-Remaining Amount,Cantidad restante,module,frontend/Mgs/claue
+ Remaining Amount ,Cantidad restante,module,frontend/Mgs/claue
 Top Selling Products,Productos más vendidos,module,frontend/Mgs/claue
 Top Selling Category,Categoría más vendida,module,frontend/Mgs/claue
 Latest Order,Último pedido,module,frontend/Mgs/claue
@@ -24990,7 +24990,7 @@ No comment & review available,No hay comentarios ó reseñas disponibles,module,
 Seller Profile,Perfil del vendedor,module,frontend/Mgs/claue
 Marketplace Edit Seller Profile,Mercado Editar perfil de vendedor,module,frontend/Mgs/claue
 Save Profile,Guardar perfil,module,frontend/Mgs/claue
-Profile Information,Información del perfil,module,frontend/Mgs/claue
+1. Profile Information,1. Información del perfil,module,frontend/Mgs/claue
 "(Enter Meta Keywords Comma(',') Separated..)","(Ingrese los Metadatos separados por coma(','))",module,frontend/Mgs/claue
 Benny's Place,La Tienda de Benny,module,frontend/Mgs/claue
 Shop Title,Título de la tienda,module,frontend/Mgs/claue
@@ -24998,11 +24998,11 @@ Company Banner,Banner de la empresa,module,frontend/Mgs/claue
 Company Logo,Logo de la empresa,module,frontend/Mgs/claue
 Company Locality,Localidad de la empresa,module,frontend/Mgs/claue
 Company Description,Descripción de la empresa,module,frontend/Mgs/claue
-Social Media Information,Información de redes sociales,module,frontend/Mgs/claue
+2. Social Media Information,2. Información de redes sociales,module,frontend/Mgs/claue
 Contact Number,Número de contacto,module,frontend/Mgs/claue
-Enter Contact Number with country code ex,Ingrese el número de contacto con el código de país ejem:,module,frontend/Mgs/claue
+Enter Contact Number with country code ex: (123) 456-7890,Ingrese el número de contacto con el código de país ejem: (123) 456-7890,module,frontend/Mgs/claue
 Enter Tax or VAT number,Ingrese el número de impuesto o IVA,module,frontend/Mgs/claue
-Edit Payment Information,Editar información de pago,module,frontend/Mgs/claue
+3. Edit Payment Information,3. Editar información de pago,module,frontend/Mgs/claue
 Payment Details,Detalles de Pagos,module,frontend/Mgs/claue
 View Profile,Ver Perfil,module,frontend/Mgs/claue
 View Collection,Ver Colección,module,frontend/Mgs/claue
@@ -25014,7 +25014,7 @@ Marketplace Add New Product,Mercado Agregar nuevo producto,module,frontend/Mgs/c
 CATEGORIES,CATEGORIAS,module,frontend/Mgs/claue
 Special Price To,Precio especial para,module,frontend/Mgs/claue
 Allowed Product Qty on Product Purchase for Customer,Cantidad de producto permitida en la compra de productos para el cliente,module,frontend/Mgs/claue
-"By default 5 qty will be allowed for customer to add in cart.","Por defecto, se permitirá que el cliente agregue 5 cantidades en el carrito de compras.",module,frontend/Mgs/claue
+"By default %1 qty will be allowed for customer to add in cart.","Por defecto, se permitirá que el cliente agregue %1 cantidades en el carrito de compras.",module,frontend/Mgs/claue
 Product Images:,Imágenes del producto:,module,frontend/Mgs/claue
 "Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Los productos configurables permiten a los clientes elegir opciones (por ejemplo, el color de la camisa). Necesita crear un producto simple para cada configuración (por ejemplo, un producto para cada color).",module,frontend/Mgs/claue
 These "impulse-buy" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.,Estos productos de "compra por impulso" aparecen junto al carrito de compras como ventas cruzadas a los artículos que ya están en el carrito de compras.,module,frontend/Mgs/claue
@@ -25101,11 +25101,11 @@ Recently Added Products,Productos agregados recientemente,module,frontend/Mgs/cl
 View Detail,Ver Detalle,module,frontend/Mgs/claue
 View All Reviews,Ver todas las reseñas,module,frontend/Mgs/claue
 "View All %1 Products","Ver todos los productos %1",module,frontend/Mgs/claue
-Average Rating,Puntuación media,module,frontend/Mgs/claue
+"Average Rating (%1)","Puntuación media (%1)",module,frontend/Mgs/claue
 positive feedback,retroalimentación positiva,module,frontend/Mgs/claue
-Average Price,Precio promedio,module,frontend/Mgs/claue
-Average Value,Valor promedio,module,frontend/Mgs/claue
-Average Quality,Calidad media,module,frontend/Mgs/claue
+"Average Price Rating (%1)","Precio promedio (%1)",module,frontend/Mgs/claue
+"Average Value Rating (%1)","Valor promedio (%1)",module,frontend/Mgs/claue
+"Average Quality Rating (%1)","Calidad media (%1)",module,frontend/Mgs/claue
 Star,Estrella,module,frontend/Mgs/claue
 "The coupon code "%1" is not valid.","El código de cupón "% 1" no es válido.",module,frontend/Mgs/claue
 "Check / Money order","Check / Money order",module,frontend/Mgs/claue
@@ -25125,3 +25125,23 @@ Download Invoice Slip,Descargar comprobante de factura,module,frontend/Mgs/claue
 Sales,Ventas,module,frontend/Mgs/claue
 Whoops, our bad...,Oops, algo salio mál...,module,frontend/Mgs/claue
 Your mail has been sent.,Su correo ha sido enviado.,module,frontend/Mgs/claue
+Become Seller,Convertirse en vendedor,module,frontend/Mgs/claue
+Seller Request Panel,Panel de solicitud del vendedor,module,frontend/Mgs/claue
+Please enter shop URL,Introduzca la URL de la tienda,module,frontend/Mgs/claue
+Marketplace Become Seller,Marketplace Convertirse en vendedor,module,frontend/Mgs/claue
+Do you want to become a seller / vendor ?,Quiere convertirse en Comerciante / Vendedor ?,module,frontend/Mgs/claue
+Report Product,Informe de producto,module,frontend/Mgs/claue
+"%1 Products","%1 productos",module,frontend/Mgs/claue
+Date Untill,Fecha hasta,module,frontend/Mgs/claue
+Download Packaging Slip,Descargar hoja de empaque,module,frontend/Mgs/claue
+"Order #%1","Pedido #% 1",module,frontend/Mgs/claue
+Order Date,Fecha de orden,module,frontend/Mgs/claue
+Login To Give Feedback,Inicie sesión para enviar comentarios,module,frontend/Mgs/claue
+Make a Review,Hacer una reseña,module,frontend/Mgs/claue
+"5 Star (%1)","5 estrellas (%1)",module,frontend/Mgs/claue
+"4 Star (%1)","4 estrellas (%1)",module,frontend/Mgs/claue
+"3 Star (%1)","3 estrellas (%1)",module,frontend/Mgs/claue
+"2 Star (%1)","2 estrellas (%1)",module,frontend/Mgs/claue
+"1 Star (%1)","1 estrella (%1)",module,frontend/Mgs/claue
+Complete,Completar,module,frontend/Mgs/claue
+Downloadable,Descargable,module,frontend/Mgs/claue
