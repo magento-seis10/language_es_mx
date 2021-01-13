@@ -17756,6 +17756,10 @@ Your shipping confirmation is below. Thank you again for your business.,La confi
 ZIP Code,Código postal,module,Magento_Sales
 ZIP/Post Code,Código Postal,module,Magento_Sales
 Zip/Postal Code,Código Postal,module,Magento_Sales
+"If you have questions about your order, you can email us at <a href="mailto:%store_email">%store_email</a>","Si tiene alguna pregunta sobre su pedido, puede enviarnos un correo electrónico a la dirección <a href="mailto:%store_email">%store_email</a>",module,Magento_Sales
+"or call us at <a href="tel:%store_phone">%store_phone</a>","o puede llamarnos al <a href="tel:%store_phone">%store_phone</a>",module,Magento_Sales
+"Our hours are <span class="no-link">%store_hours</span>.","Nuestro horario de atención es <span class="no-link">%store_hours</span>.",module,Magento_Sales
+"You can check the status of your order by <a href="%account_url">logging into your account</a>.","Puede comprobar el estado de su pedido <a href="%account_url">ingresando a su cuenta</a>.",module,Magento_Sales
 Add,Agregar,module,Magento_SalesArchive
 Adjustment Fee,Recargo de una corrección,module,Magento_SalesArchive
 Adjustment Refund,Reembolso de una corrección,module,Magento_SalesArchive
