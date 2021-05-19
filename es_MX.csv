@@ -16245,7 +16245,7 @@ You deleted the rating.,Borró la calificación.,module,Magento_Review
 You have submitted no reviews.,No has enviado ninguna reseña.,module,Magento_Review
 You saved the rating.,Guardaste la calificación.,module,Magento_Review
 You saved the review.,Guardaste la reseña.,module,Magento_Review
-You submitted your review for moderation.,Usted presentó su informe a la moderación.,module,Magento_Review
+You submitted your review for moderation.,Enviaste tu reseña para aprobación.,module,Magento_Review
 You're reviewing:,Estás revisando:,module,Magento_Review
 Your Rating,Su valoración,module,Magento_Review
 Your Review,Su reseña,module,Magento_Review
@@ -24953,7 +24953,7 @@ You can create an account after checkout.,Puede crear una cuenta después de la 
 You already have an account with us. Sign in or continue as guest.,Usted ya tiene una cuenta con nosotros. Inicia sesión o continuar como invitado.,module,frontend/Mgs/claue
 You have no items in your shopping cart.,No tiene artículos en su carrito de compras.,module,frontend/Mgs/claue
 Go To Cart,Ir al carrito,module,frontend/Mgs/claue
-Check Out,Revisar pedido,module,frontend/Mgs/claue
+Check Out,Realizar pedido,module,frontend/Mgs/claue
 Options Details,opciones detalles,module,frontend/Mgs/claue
 See price before order confirmation.,Ver precio antes de la confirmación del pedido.,module,frontend/Mgs/claue
 Update,Actualizar,module,frontend/Mgs/claue
