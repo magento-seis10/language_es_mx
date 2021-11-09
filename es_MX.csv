@@ -25246,3 +25246,5 @@ Allowed Product Qty on Product Purchase for Customer,Define el mínimo de Pedido
 GDPR,Privacidad de la Cuenta,module,frontend/Mgs/claue
 Data Access,Acceso a los datos,module,frontend/Mgs/claue
 Erase Account,Borrar cuenta,module,frontend/Mgs/claue
+"Out of Stock ","No disponible por el momento",module,frontend/Mgs/claue
+" Out of Stock ","No disponible",module,frontend/Mgs/claue
