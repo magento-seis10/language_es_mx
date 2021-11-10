@@ -25248,3 +25248,5 @@ Data Access,Acceso a los datos,module,frontend/Mgs/claue
 Erase Account,Borrar cuenta,module,frontend/Mgs/claue
 "Out of Stock ","No disponible por el momento",module,frontend/Mgs/claue
 " Out of Stock ","No disponible",module,frontend/Mgs/claue
+"Keep Shopping","Seguir comprando",module,frontend/Mgs/claue
+"View Cart","Ver carrito",module,frontend/Mgs/claue
