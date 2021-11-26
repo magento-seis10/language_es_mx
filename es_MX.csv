@@ -17230,7 +17230,7 @@ Notify Customer by Email,Notificar al cliente por correo electrónico,module,Mag
 Number,Número,module,Magento_Sales
 Ok,Aceptar,module,Magento_Sales
 On Hold,En suspenso,module,Magento_Sales
-Once your package ships we will send an email with a link to track your order.,Una vez que su paquete incluye le enviaremos un correo electrónico con un enlace al seguimiento de su pedido.,module,Magento_Sales
+Once your package ships we will send an email with a link to track your order.,Una vez que se envíe su paquete, le enviaremos un correo electrónico con un enlace para rastrear su pedido.,module,Magento_Sales
 Once your package ships we will send you a tracking number.,Una vez que el paquete sea enviado le enviaremos un número de rastreo.,module,Magento_Sales
 Operations,Operaciones,module,Magento_Sales
 "or call us at <a href=tel:%store_phone>%store_phone</a>","o llámenos al <a href=tel:%store_phone> %store_phone</a>",module,Magento_Sales
@@ -25250,3 +25250,6 @@ Erase Account,Borrar cuenta,module,frontend/Mgs/claue
 " Out of Stock ","No disponible",module,frontend/Mgs/claue
 "Keep Shopping","Seguir comprando",module,frontend/Mgs/claue
 "View Cart","Ver carrito",module,frontend/Mgs/claue
+"Click ","Haga click ",module,frontend/Mgs/claue
+"here","aquí",module,frontend/Mgs/claue
+" to continue shopping."," para continuar comprando.",module,frontend/Mgs/claue
